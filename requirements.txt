@@ -1,0 +1,9 @@
+streamlit
+pandas==1.4.2
+nltk==3.7
+plotly==5.14.1
+colorama==0.4.4
+google-api-python-client==2.50.0
+youtube-comment-scraper-python==1.0.0pip
+protobuf==3.19.0
+pip==23.1.2
